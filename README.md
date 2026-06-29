@@ -27,16 +27,22 @@
 ### 🚀 What I'm Currently Working On
 *   **Planova:** A productivity and task management dashboard built with Clean Architecture and BLoC.
 *   **Fleexa:** An IoT simulation and monitoring application handling live telemetry data.
-*   **Mizani:** An AI-powered expense manager utilizing Google ML Kit and OCR for receipt scanning.
-*   **Bite Guide:** An API-driven recipe discovery application.
 
 <br/>
 
 ### 🔥 GitHub Stats & Streak
-<p align="center">
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hlakhaled&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hlakhaled&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+</div>
+
+<br>
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hlakhaled&show_icons=true&theme=tokyonight&hide_border=true)
+
+</div>
 
 <br/>
 
@@ -55,14 +61,8 @@
 <div align="center">
   <p>Available for freelance projects, specializing in translating modern Figma designs into highly functional Flutter code.</p>
   
-  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="YOUR_LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="YOUR_KHAMSAT_URL_HERE"><img src="https://img.shields.io/badge/Khamsat-109010?style=for-the-badge&logo=freelancer&logoColor=white" /></a>
-  <a href="YOUR_NAFZELY_URL_HERE"><img src="https://img.shields.io/badge/Nafzely-0052CC?style=for-the-badge&logo=freelancer&logoColor=white" /></a>
-</div>
-
-<br/>
-
-<div align="center">
-  <i>⭐️ From pixel-perfect UIs to robust state management. ⭐️</i>
+  <a href="mailto:hlakhaled647@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hla-khaled/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://khamsat.com/user/hla_khaled_eltahawy"><img src="https://img.shields.io/badge/Khamsat-109010?style=for-the-badge&logo=freelancer&logoColor=white" /></a>
+  <a href="https://nafezly.com/my/services"><img src="https://img.shields.io/badge/Nafzely-0052CC?style=for-the-badge&logo=freelancer&logoColor=white" /></a>
 </div>
