@@ -1,42 +1,68 @@
-<!-- Waving Animated Header with Twinkling Stars -->
+<h1 align="center">Hi there, I'm Hla Khaled 👋</h1>
+
+<!-- Smooth Typing Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=250&section=header&text=Hla%20Khaled&fontSize=80&fontAlignY=35&animation=twinkling&desc=Player%20One%20Ready%20%7C%20Flutter%20Specialist&descAlignY=55&descAlign=50&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E83E8C&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Mobile+App+Developer;Flutter+%26+Dart+Specialist;Transforming+Figma+into+Reality" alt="Typing SVG" />
 </div>
 
-<!-- Retro Game Typing Animation -->
+<p align="center">
+  I am a Computer Science student and a <b>Mobile Application Developer</b> based in Egypt. I specialize in building seamless, cross-platform experiences using <b>Flutter & Dart</b>, with a strong focus on clean code, scalable architecture, and modern UI/UX design. Whether I am implementing BLoC for state management or integrating cloud services, I love turning complex problems into intuitive, high-performance applications.
+</p>
+
+<br/>
+
+### 🛠️ Tech Stack & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+<br/>
+
+### 🚀 What I'm Currently Working On
+*   **Planova:** A productivity and task management dashboard built with Clean Architecture and BLoC.
+*   **Fleexa:** An IoT simulation and monitoring application handling live telemetry data.
+*   **Mizani:** An AI-powered expense manager utilizing Google ML Kit and OCR for receipt scanning.
+*   **Bite Guide:** An API-driven recipe discovery application.
+
+<br/>
+
+### 🔥 GitHub Stats & Streak
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=600&size=14&pause=1000&color=800020&center=true&vCenter=true&width=800&lines=Initializing+Player+One...;Equipped:+Flutter,+Dart,+C++;Quest+1:+Building+Planova+Dashboard;Quest+2:+Compiling+Fleexa+IoT;Quest+3:+Training+Mizani+AI;Looking+for+co-op+freelance+missions!" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hlakhaled&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hlakhaled&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="195" />
 </div>
 
 <br/>
 
-### 🕹️ **Inventory & Loadout (Tech Stack)**
+### 🐍 Contribution Graph
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,firebase,aws,figma,git,vscode&perline=8" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hlakhaled/hlakhaled/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hlakhaled/hlakhaled/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hlakhaled/hlakhaled/output/github-snake.svg">
+  </picture>
 </div>
 
 <br/>
 
-### 🏆 **Unlockable Achievements**
+### 🤝 Let's Connect & Collaborate
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hlakhaled&theme=radical&no-frame=true&row=1&column=6&margin-w=15" />
+  <p>Available for freelance projects, specializing in translating modern Figma designs into highly functional Flutter code.</p>
+  
+  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="YOUR_LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="YOUR_KHAMSAT_URL_HERE"><img src="https://img.shields.io/badge/Khamsat-109010?style=for-the-badge&logo=freelancer&logoColor=white" /></a>
+  <a href="YOUR_NAFZELY_URL_HERE"><img src="https://img.shields.io/badge/Nafzely-0052CC?style=for-the-badge&logo=freelancer&logoColor=white" /></a>
 </div>
 
 <br/>
 
-### 📊 **Player Stats (Live Tracking)**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hlakhaled&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="195"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hlakhaled&theme=radical" height="195"/>
-</div>
-
-<br/>
-
-<!-- Animated Emotes -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="45" height="45" />
+  <i>⭐️ From pixel-perfect UIs to robust state management. ⭐️</i>
 </div>
